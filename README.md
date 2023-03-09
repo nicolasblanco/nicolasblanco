@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm the CTO of [Moning.co](https://moning.co), a web platform offering you all you need to have a global view of your wealth & make better investment decisions.
+
 <!--
 **nicolasblanco/nicolasblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
